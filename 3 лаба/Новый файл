@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Путешествия</title>
+</head>
+<body>
+
+<div >
+
+    <h1>ПУТЕШЕСТВИЯ</h1>
+    <div >навигация по блокам с якорями</div>
+
+    <section id="country" class="section">
+        <h2>НАЗВАНИЕ СТРАНЫ</h2>
+        <p>блок &lt;header&gt;</p>
+        <p>стили для заголовков h1, h2, h3</p>
+    </section>
+
+    <section id="map" class="section">
+        <h2>Карта регионов</h2>
+        <p>Кликабельное svg-изображение с возможностью выбора</p>
+        <p>+ анимация + мобильная версия</p>
+    </section>
+
+    <section id="description" class="section">
+        <h2>Описание</h2>
+        <p>Красиво оформленный текст</p>
+        <p>стили для блока с текстом</p>
+    </section>
+
+    <section id="weather" class="section" style="min-height:200px;">
+        <h2>Погода</h2>
+        <p>желательно на карте, либо прогноз по регионам/городам</p>
+        <p>блок с min-height</p>
+    </section>
+
+    <section id="about" class="section">
+        <h2>О нас / о стране</h2>
+        <p>блок с цифрами, тезисно</p>
+        <p>стили с display:flex</p>
+    </section>
+
+    <section id="form" class="section">
+        <h2>Форма обратной связи / Задать вопрос</h2>
+        <p>форма для ввода и отправки текста</p>
+        <p>стили элементов управления</p>
+    </section>
+
+    <section id="faq" class="section">
+        <h2>FAQ</h2>
+        <p>раскрывающие поля</p>
+        <p>обработка раскрывашек</p>
+    </section>
+
+    <footer id="contacts">
+        <h2>Контакты</h2>
+        <p>блок &lt;footer&gt;</p>
+    </footer>
+
+</div>
+
+</body>
+</html>
