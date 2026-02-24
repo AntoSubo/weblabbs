@@ -1,0 +1,26 @@
+﻿body {
+    font-family: Arial;
+    background-color: #324f4f;
+}
+.title {
+    font-family: 'Instrument Serif';
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+/* Применяется к элементам с class="button" */
+.btn1 {
+    background-color: #808080; /* Зеленый фон */
+    color: black;
+    padding: 10px 20px;
+
+}
+.btn2 {
+    background-color: #8b1c1c; /* Зеленый фон */
+    color: black;
+    padding: 10px 20px;
+
+}
+.input-text {
+    padding: 10px 20px;
+}
